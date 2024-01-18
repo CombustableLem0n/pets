@@ -1,0 +1,13 @@
+{
+  "name": "lhegwood/328/pets",
+  "authors": [
+    {
+      "name": "LeeRoy Hegwood",
+      "email":"hegwood.leeroy@student.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
